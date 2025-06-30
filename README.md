@@ -4,11 +4,7 @@ Sistema de Gestión de Eventos - Grupo 13 (UADE)
 Este proyecto es una aplicación de consola desarrollada en Java que permite gestionar eventos, registrar ventas de entradas y facilitar reservas tanto para administradores como para clientes.
 Descripción general
 La aplicación permite a un administrador crear, modificar y eliminar eventos, así como visualizar las ventas realizadas. Por otro lado, los clientes pueden consultar los eventos disponibles y reservar entradas seleccionando la cantidad deseada y el método de pago. El sistema guarda y carga la información utilizando archivos binarios para mantener los datos persistentes entre ejecuciones.
-Tecnologías utilizadas
-Lenguaje de programación: Java (versión 8 o superior)
- Paradigma aplicado: Programación Orientada a Objetos
- Persistencia de datos: Serialización de objetos en archivos .dat
- Interfaz de usuario: Consola (modo texto)
+
 Estructura del proyecto
 El sistema está compuesto por las siguientes clases principales:
 Main: contiene el flujo de ejecución y los menús de interacción.
